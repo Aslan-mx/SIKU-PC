@@ -1,0 +1,112 @@
+{
+  "data": {
+    "PicList": [
+      {
+        "id": 1,
+        "link": "http://item.secoo.com/53845915.shtml",
+        "product-name": "Louis Vuitton/路易威登",
+        "product-desc": "经典 Neverfull 中号手袋 Monogram 帆布 女士 托特包",
+        "imgUrl": "https://pic11.secooimg.com/product/300/300/2019/0705/216edab1df344728b737c5b150d0ff5f.jpg",
+        "product-price": "￥14,800"
+      },
+      {
+        "id": 2,
+        "link": "http://item.secoo.com/53047586.shtml",
+        "product-name": "CHANEL/香奈儿",
+        "product-desc": "Classic Flap 口盖包 小号 羊皮 金色金属 女士 单肩包",
+        "imgUrl": "https://pic11.secooimg.com/product/300/300/2019/0620/9d4b64fa0bb148a7930c6d85576c13f0.jpg",
+        "product-price": "￥58,000"
+      },
+      {
+        "id": 3,
+        "link": "http://item.secoo.com/53762678.shtml",
+        "product-name": "Rolex/劳力士",
+        "product-desc": "迪通拿系列 M116500LN-0001 蚝式钢 自动机械 男士 腕表",
+        "imgUrl": "https://pic11.secooimg.com/product/300/300/2019/0704/a6dbdf392a3b4f2e8c8d8ad264393a01.jpg",
+        "product-price": "￥237,000"
+      },
+      {
+        "id": 4,
+        "link": "http://item.secoo.com/53052703.shtml",
+        "product-name": "Hermès/爱马仕",
+        "product-desc": "Birkin 铂金包 30cm Togo牛皮 金扣 女士 手提包",
+        "imgUrl": "https://pic11.secooimg.com/product/300/300/2019/0620/69685948400d41d3902e8855270a0bc4.jpg",
+        "product-price": "￥168,000"
+      },
+      {
+        "id": 5,
+        "link": "http://item.secoo.com/52749631.shtml",
+        "product-name": "Gucci/古驰",
+        "product-desc": "GG Marmont 系列 绗缝小号链带肩背包 女士 斜挎包",
+        "imgUrl": "https://pic11.secooimg.com/product/300/300/2019/0614/d47217760776465f91a393c27e8ede29.jpg",
+        "product-price": "￥18,500"
+      }
+    ],
+    "NavList": [
+      {
+        "id": 1,
+        "title": "新品首发",
+        "link": "http://www.secoo.com/listTop/kukeKOL.shtml",
+        "imgUrl": "https://pic10.secooimg.com/push/18/11/f77de773a9a646a4a9e18ab28d6c710d.jpg"
+      },
+      {
+        "id": 2,
+        "title": "限时特惠",
+        "link": "http://search.secoo.com/search?keyword=&level=0&qfs=1",
+        "imgUrl": "https://pic10.secooimg.com/push/18/11/31870faf4d624ab7873c02f59da6004b.jpg"
+      },
+      {
+        "id": 3,
+        "title": "品牌精选",
+        "link": "http://search.secoo.com/search?keyword=",
+        "imgUrl": "https://pic12.secooimg.com/push/18/11/5a68b33440ec4599aa553c5ce06e8e5e.jpg"
+      }
+    ],
+    "SubList": [
+      {
+        "id": 1,
+        "title": "腕表专区",
+        "link": "http://www.secoo.com/listTop/msd.shtml",
+        "imgUrl": "https://pic12.secooimg.com/push/18/11/b80a21c2b985477885c4536cfecbb38b.jpg"
+      },
+      {
+        "id": 2,
+        "title": "美妆护肤",
+        "link": "http://www.secoo.com/newSecooClub.shtml#4thpage",
+        "imgUrl": "https://pic10.secooimg.com/push/18/11/63229c04ab284807b634cd0b36178444.jpg"
+      },
+      {
+        "id": 3,
+        "title": "家居生活",
+        "link": "http://www.secoo.com/static/help/10_1.shtml",
+        "imgUrl": "https://pic10.secooimg.com/push/18/11/c154878a6dbb4380a52209cb64462cb0.jpg"
+      }
+    ],
+    "SpaList": [
+      {
+        "id": 1,
+        "title": "正品保障",
+        "link": "http://www.secoo.com/listTop/180712_businessLicense.shtml",
+        "imgUrl": "https://pic12.secooimg.com/home/f_01.jpg"
+      },
+      {
+        "id": 2,
+        "title": "安心售后",
+        "link": "http://ss.knet.cn/verifyseal.dll?sn=e16051911010263532a4zi000000&a=1&pa=0.6321878711618679",
+        "imgUrl": "https://pic12.secooimg.com/imagesNew/featuresPic/vv_qixi_0815/cnnic.png"
+      },
+      {
+        "id": 3,
+        "title": "权威认证",
+        "link": "http://search.szfw.org/cert/l/CX20141231006253006352",
+        "imgUrl": "https://pic12.secooimg.com/home/kexin.jpg"
+      },
+      {
+        "id": 4,
+        "title": "诚信商家",
+        "link": "http://www.cyberpolice.cn/wfjb/",
+        "imgUrl": "https://pic12.secooimg.com/res/common/54b317cf05244c9ab5fcfa18df7d2199.jpg"
+      }
+    ]
+  }
+}
